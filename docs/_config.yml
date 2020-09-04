@@ -22,11 +22,11 @@ title: CIT 480 Blog Projects
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is weekly blog project for CIT 480 senior design
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  keiyamo
 
 # Build settings
 theme: jekyll-theme-leap-day
