@@ -29,4 +29,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 
-[back to Home](/index/)
+[back to Home](https://keiyamo.github.io/)
