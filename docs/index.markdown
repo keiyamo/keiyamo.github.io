@@ -15,3 +15,7 @@ Sep 2, 2020
 
 ### [Blog 1 -Add Theme-](/2020-09-10-Blog1/)
 Sep 10, 2020
+
+
+### [Blog 2 -LAMP stack-](/2020-09-18-Blog2/)
+Sep 18, 2020
