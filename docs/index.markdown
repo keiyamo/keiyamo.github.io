@@ -19,3 +19,6 @@ Sep 10, 2020
 
 ### [Blog 2 -LAMP stack-](/2020-09-18-Blog2/)
 Sep 18, 2020
+
+### [Blog 3 -Adding images to my Blog-](/2020-09-20-Blog3/)
+Sep 20, 2020
