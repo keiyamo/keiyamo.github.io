@@ -25,3 +25,6 @@ Sep 20, 2020
 
 ### [Blog 4 -Dockerfile-](/2020-09-30-Blog4/)
 Sep 30, 2020
+
+### [Blog 5 -Dockerfile Continue-](/2020-10-05-Blog5/)  
+Oct 5, 2020
