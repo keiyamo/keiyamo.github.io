@@ -28,3 +28,6 @@ Sep 30, 2020
 
 ### [Blog 5 -Dockerfile Continue-](/2020-10-05-Blog5/)  
 Oct 5, 2020
+
+### [Blog 6 -Ansible-](/2020-10-14-Blog6/)
+Oct 14, 2020
