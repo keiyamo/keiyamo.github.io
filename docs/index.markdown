@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title:  "Keiko's Blog"
 
 ---
 ### [Welcome to Jekyll](/2020-09-02-welcome-to-jekyll/)
@@ -31,3 +32,6 @@ Oct 5, 2020
 
 ### [Blog 6 -Ansible-](/2020-10-14-Blog6/)
 Oct 14, 2020
+
+### [Blog 7 -Ansible Continue-](/2020-10-20-Blog7/)  
+Oct 20, 2020
