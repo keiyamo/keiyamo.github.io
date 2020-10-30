@@ -35,3 +35,6 @@ Oct 14, 2020
 
 ### [Blog 7 -Ansible Continue-](/2020-10-20-Blog7/)  
 Oct 20, 2020
+
+### [Blog 8 -Set up AWS-](/2020-10-29-Blog8/)
+Oct 29, 2020
