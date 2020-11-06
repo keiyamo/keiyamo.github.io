@@ -38,3 +38,6 @@ Oct 20, 2020
 
 ### [Blog 8 -Set up AWS-](/2020-10-29-Blog8/)
 Oct 29, 2020
+
+### [Blog 9 -EC2 instance-](/2020-11-05-Blog9/)
+Nov 5, 2020
