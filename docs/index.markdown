@@ -42,5 +42,5 @@ Oct 29, 2020
 ### [Blog 9 -EC2 instance-](/2020-11-05-Blog9/)
 Nov 5, 2020
 
-### [Blog 10 -5G-](/2020-11-12-Blog10/)
+### [Blog 10 -5G Network-](/2020-11-12-Blog10/)
 Nov 12, 2020
