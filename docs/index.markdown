@@ -48,10 +48,8 @@ Nov 12, 2020
 ### [Blog 11 -AWS CLI-](/2020-11-19-Blog11/)
 Nov 19, 2020
 
-<<<<<<< HEAD
 ### [Blog 12 -Wrap up 2020 Fall!-](/2020-12-04-Blog12/)
 Nov 28, 2020
-=======
+
 ### [Blog 12 -Wrap up Fall 2020-](/2020-12-04 Blog12/)
 Dec 4, 2020
->>>>>>> c9fbf2244cba15c703f506415a37083ba014db8a
