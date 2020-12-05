@@ -49,7 +49,4 @@ Nov 12, 2020
 Nov 19, 2020
 
 ### [Blog 12 -Wrap up 2020 Fall!-](/2020-12-04-Blog12/)
-Nov 28, 2020
-
-### [Blog 12 -Wrap up Fall 2020-](/2020-12-04 Blog12/)
 Dec 4, 2020
