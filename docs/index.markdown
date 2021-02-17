@@ -50,3 +50,6 @@ Nov 19, 2020
 
 ### [Blog 12 -Wrap up 2020 Fall!-](/2020-12-04-Blog12/)
 Dec 4, 2020
+
+### [Blog 13 -Fall 2021 Began!-](/2021-02-08-Blog13/)
+Feb 8, 2021
