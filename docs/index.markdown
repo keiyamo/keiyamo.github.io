@@ -51,5 +51,11 @@ Nov 19, 2020
 ### [Blog 12 -Wrap up 2020 Fall!-](/2020-12-04-Blog12/)
 Dec 4, 2020
 
-### [Blog 13 -Fall 2021 Began!-](/2021-02-08-Blog13/)
+### [Blog 13(0)* -Fall 2021 Began!-](/2021-02-08-Blog13/)
 Feb 8, 2021
+
+### [Blog 14(1)* -Launch Senior Project!-](/2021-02-16-Blog14/)
+Feb 16, 2021
+
+
+- *numbering for CIT481 blog project
