@@ -57,7 +57,7 @@ Feb 8, 2021
 ### [Blog 14(1)* -Launch Senior Project!-](/2021-02-16-Blog14/)
 Feb 16, 2021
 
-### [Blog 15(2)* -AWS Organization-](/2021-03-06-Blog15/)
-Mar 6, 2021
+### [Blog 15(2)* -AWS Organization-](/2021-03-05-Blog15/)
+Mar 5, 2021
 
 - *numbering for CIT481 blog project
