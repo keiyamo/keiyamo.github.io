@@ -61,6 +61,9 @@ Feb 16, 2021
 Mar 5, 2021  
 
 ### [Blog 16(3)* -Generate TLS Certificate](/2021-03-12-Blog16/)
-Mar 12, 2021
+Mar 12, 2021  
+
+### [Blog 17(4)* -Setting up Elastic IP address-](/2021-03-15-Blog17/)
+Mar 15, 2021
 
 - *numbering in () is for CIT481 blog project
