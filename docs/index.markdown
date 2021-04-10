@@ -69,4 +69,7 @@ Mar 15, 2021
 ### [Blog 18(5)* -AWS Academy-](/2021-04-02-Blog18/)
 Apr 2, 2021
 
+### [Blog 19(6)* -Terraform-](/2021-04-09-Blog19/)
+Apr 9, 2021
+
 - *numbering in () is for CIT481 blog project
