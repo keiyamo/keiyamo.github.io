@@ -72,4 +72,7 @@ Apr 2, 2021
 ### [Blog 19(6)* -Terraform-](/2021-04-09-Blog19/)
 Apr 9, 2021
 
+### [Blog 20(7)* -Terraform continue-](/2021-04-16-Blog20/)
+APr 16, 2021
+
 - *numbering in () is for CIT481 blog project
