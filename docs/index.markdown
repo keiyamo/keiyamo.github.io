@@ -73,6 +73,9 @@ Apr 2, 2021
 Apr 9, 2021
 
 ### [Blog 20(7)* -Terraform continue-](/2021-04-16-Blog20/)
-APr 16, 2021
+Apr 16, 2021
+
+### [Blog 21(8)* -Route 53 Hosted Zone-](/2021-04-23-Blog21/)
+Apr 23, 2021
 
 - *numbering in () is for CIT481 blog project
