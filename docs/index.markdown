@@ -78,4 +78,7 @@ Apr 16, 2021
 ### [Blog 21(8)* -Route 53 Hosted Zone-](/2021-04-23-Blog21/)
 Apr 23, 2021
 
+### [Blog 22(9)* -Spot Instance-](/2021-04-30-Blog22/)
+Apr 30, 2021
+
 - *numbering in () is for CIT481 blog project
