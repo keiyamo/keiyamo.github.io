@@ -81,4 +81,7 @@ Apr 23, 2021
 ### [Blog 22(9)* -Cost Saving-](/2021-04-30-Blog22/)
 Apr 30, 2021
 
+### [Blog 23(10)* -Last Blog!(officially)-](/2021-05-07-Blog23/)
+May 7, 2021
+
 - *numbering in () is for CIT481 blog project
